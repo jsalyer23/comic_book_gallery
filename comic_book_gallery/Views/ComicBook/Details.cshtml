@@ -1,0 +1,13 @@
+﻿@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@{
+	var comicBook = ViewBag.ComicBook;
+}
+
+<!--comicBook needs to be an object passed from the controller-->
+
+<h2>@comicBook.title</h2>
+

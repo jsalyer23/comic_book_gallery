@@ -1,0 +1,12 @@
+/Users/joshsalyer/Code/comic_book_gallery/comic_book_gallery/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/joshsalyer/Code/comic_book_gallery/comic_book_gallery/bin/comic_book_gallery.dll.mdb
+/Users/joshsalyer/Code/comic_book_gallery/comic_book_gallery/bin/comic_book_gallery.dll
+/Users/joshsalyer/Code/comic_book_gallery/comic_book_gallery/obj/Debug/comic_book_gallery.dll
+/Users/joshsalyer/Code/comic_book_gallery/comic_book_gallery/obj/Debug/comic_book_gallery.dll.mdb
+/Users/joshsalyer/Code/comic_book_gallery/comic_book_gallery/bin/Microsoft.Web.Infrastructure.dll
+/Users/joshsalyer/Code/comic_book_gallery/comic_book_gallery/bin/System.Web.Razor.dll
+/Users/joshsalyer/Code/comic_book_gallery/comic_book_gallery/bin/System.Web.Helpers.dll
+/Users/joshsalyer/Code/comic_book_gallery/comic_book_gallery/bin/System.Web.WebPages.dll
+/Users/joshsalyer/Code/comic_book_gallery/comic_book_gallery/bin/System.Web.WebPages.Deployment.dll
+/Users/joshsalyer/Code/comic_book_gallery/comic_book_gallery/bin/System.Web.WebPages.Razor.dll
+/Users/joshsalyer/Code/comic_book_gallery/comic_book_gallery/bin/System.Web.Mvc.dll

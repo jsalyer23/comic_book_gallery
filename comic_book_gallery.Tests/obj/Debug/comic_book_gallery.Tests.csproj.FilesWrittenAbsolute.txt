@@ -1,0 +1,15 @@
+/Users/joshsalyer/Code/comic_book_gallery/comic_book_gallery.Tests/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/joshsalyer/Code/comic_book_gallery/comic_book_gallery.Tests/bin/Debug/nunit.framework.dll
+/Users/joshsalyer/Code/comic_book_gallery/comic_book_gallery.Tests/bin/Debug/Microsoft.Web.Infrastructure.dll
+/Users/joshsalyer/Code/comic_book_gallery/comic_book_gallery.Tests/bin/Debug/System.Web.Razor.dll
+/Users/joshsalyer/Code/comic_book_gallery/comic_book_gallery.Tests/bin/Debug/System.Web.Helpers.dll
+/Users/joshsalyer/Code/comic_book_gallery/comic_book_gallery.Tests/bin/Debug/System.Web.WebPages.dll
+/Users/joshsalyer/Code/comic_book_gallery/comic_book_gallery.Tests/bin/Debug/System.Web.WebPages.Deployment.dll
+/Users/joshsalyer/Code/comic_book_gallery/comic_book_gallery.Tests/bin/Debug/System.Web.WebPages.Razor.dll
+/Users/joshsalyer/Code/comic_book_gallery/comic_book_gallery.Tests/bin/Debug/System.Web.Mvc.dll
+/Users/joshsalyer/Code/comic_book_gallery/comic_book_gallery.Tests/bin/Debug/comic_book_gallery.dll
+/Users/joshsalyer/Code/comic_book_gallery/comic_book_gallery.Tests/bin/Debug/comic_book_gallery.dll.mdb
+/Users/joshsalyer/Code/comic_book_gallery/comic_book_gallery.Tests/bin/Debug/comic_book_gallery.Tests.dll.mdb
+/Users/joshsalyer/Code/comic_book_gallery/comic_book_gallery.Tests/bin/Debug/comic_book_gallery.Tests.dll
+/Users/joshsalyer/Code/comic_book_gallery/comic_book_gallery.Tests/obj/Debug/comic_book_gallery.Tests.dll
+/Users/joshsalyer/Code/comic_book_gallery/comic_book_gallery.Tests/obj/Debug/comic_book_gallery.Tests.dll.mdb

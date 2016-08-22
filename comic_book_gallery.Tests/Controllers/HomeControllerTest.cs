@@ -10,13 +10,13 @@ using comic_book_gallery.Controllers;
 namespace comic_book_gallery.Tests
 {
 	[TestFixture]
-	public class HomeControllerTest
+	public class ComicBookControllerTest
 	{
 		[Test]
 		public void Index()
 		{
 			// Arrange
-			var controller = new HomeController();
+			var controller = new ComicBookController();
 
 			// Act
 			var result = (ViewResult)controller.Index();
